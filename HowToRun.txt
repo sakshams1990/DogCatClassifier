@@ -4,3 +4,11 @@ git commit -m "Initial commit"
 git remote add origin remoteurl
 
 git push origin master
+
+
+heroku login
+heroku
+heroku create
+heroku remote -v
+git push heroku master
+
