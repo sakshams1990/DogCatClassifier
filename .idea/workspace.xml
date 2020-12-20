@@ -10,21 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbf7b1d5-048a-42f5-85d9-5f8da2df4cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DogCatAzure.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HowToRun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HowToRun.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="bbf7b1d5-048a-42f5-85d9-5f8da2df4cde" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
