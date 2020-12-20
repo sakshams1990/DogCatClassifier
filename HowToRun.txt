@@ -1,14 +1,27 @@
+# Steps to deploy on Heroku
+# Initialize the local GIT
 git init
 git add .
 git commit -m "Initial commit"
 git remote add origin remoteurl
-
 git push origin master
 
 
 heroku login
-heroku
 heroku create
 heroku remote -v
 git push heroku master
+============================================================================================
+# Steps to follow to deploy on Amazon (AWS Elastic Beanstalk)
+
+1. Your main python file name should be application.py
+2. Your flask object name which we have defined in application.py should also be the application
+3. .ebignore is responsible to contain the files that we dont need to push to the cloud
+4. Create requirements.txt file , command(pip freeze > requirements.txt)
+5. Create a folder .ebextensions
+6. Inside .ebextensions, create a new file called python.config
+7. In python.config mention the below commands:
+        "aws:elasticbeanstalk:container:python":
+                WSGIPath: application:application
+
 
